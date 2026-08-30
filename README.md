@@ -1,5 +1,5 @@
-##Hello World
-I'm just here for random stuff
+# Hello World
+Nothing much to see here
 <!--
 **MufasaLone/MufasaLone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
