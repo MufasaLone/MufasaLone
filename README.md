@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/daffacipta/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
          alt="LinkedIn" width="35" height="35"/>
   </a>
   &nbsp;
