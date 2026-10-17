@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/daffacipta/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+         alt="LinkedIn" width="35" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Lone_/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116"
+         alt="LeetCode" width="35" height="35"/>
+  </a>
+</p>
