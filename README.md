@@ -1,5 +1,5 @@
 # About Me (˶ᵔᗜᵔ˶)ﾉﾞ
-Chemical Engineering student at Chulalongkorn University with an interest in biochemical engineering, mathematics, and computer programming. I enjoy programming as a hobby and building projects that combine engineering principles with computational problem-solving.
+Chemical Engineering student at Chulalongkorn University interested in biochemical engineering, mathematics, and computer programming. I enjoy building projects that combine engineering principles with computational problem-solving, as well as coding simply for the fun of it.
 
 ## ⛭ Programming Languages
 - Python
