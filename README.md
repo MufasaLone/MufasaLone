@@ -7,7 +7,6 @@ Chemical Engineering student at Chulalongkorn University interested in biochemic
 - Julia
 
 ## 🚧 Currently Working On
-- Chemical Reaction Balancer — Balancing chemical equations computationally.
 - Fluid Pipe Path Optimizer — Optimizing pipe routing and path selection.
 - Tray Absorber Simulation — Simulating mass transfer in tray absorption columns.
 
