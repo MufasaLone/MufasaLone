@@ -9,6 +9,7 @@ Chemical Engineering student at Chulalongkorn University interested in biochemic
 ## 🚧 Currently Working On
 - Fluid Pipe Path Optimizer — Optimizing pipe routing and path selection.
 - Tray Absorber Simulation — Simulating mass transfer in tray absorption columns.
+- N Body Problem Simulation — Simulating the interation of N celestial bodies. 
 
 ## 💻 LeetCode
 I solve problems on LeetCode to practice data structures and algorithms (DSA).
